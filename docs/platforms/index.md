@@ -37,6 +37,7 @@ Native companion apps for Windows are also planned; the Gateway is recommended v
 - Install guide: [Getting Started](/start/getting-started)
 - Gateway runbook: [Gateway](/gateway)
 - Gateway configuration: [Configuration](/gateway/configuration)
+- Companion architecture: [Companion App Architecture](/platforms/companion-architecture)
 - Service status: `openclaw gateway status`
 
 ## Gateway service install (CLI)

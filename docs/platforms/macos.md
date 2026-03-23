@@ -224,3 +224,4 @@ details, see [Gateway protocol](/gateway/protocol).
 - [Gateway (macOS)](/platforms/mac/bundled-gateway)
 - [macOS permissions](/platforms/mac/permissions)
 - [Canvas](/platforms/mac/canvas)
+- [macOS Companion Security Analysis (Chinese)](/platforms/mac/companion-security-analysis-zh)

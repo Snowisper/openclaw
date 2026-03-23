@@ -189,5 +189,7 @@ Discovery 选项：
 
 - [Gateway 网关运维手册](/gateway)
 - [Gateway 网关（macOS）](/platforms/mac/bundled-gateway)
+- [配套应用架构](/platforms/companion-architecture)
 - [macOS 权限](/platforms/mac/permissions)
 - [Canvas](/platforms/mac/canvas)
+- [macOS 配套应用安全分析（中文）](/platforms/mac/companion-security-analysis-zh)
